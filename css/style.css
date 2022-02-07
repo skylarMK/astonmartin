@@ -603,6 +603,7 @@ footer{
   
   #gotop { right: 0px; bottom: -25px;}
   .interested{width: calc(100% / 2 - 70px);}
+  .explore{ width: auto;}
   
   
 }
@@ -634,7 +635,6 @@ footer{
   .table{width: 80%;}
   .itemC,.explore,.carItem,.boxWidth{width: 100%;}
   .explore{
-    width: auto;
     padding: 6px;
     display: inline-block;
   }
@@ -805,7 +805,6 @@ footer{
   .D2-2Color{color: #3a3a3a;padding-right: 0;}
   .D2-3color{color: #fff;}
   .tableArea { padding: 15% 0;}
-  .videoArea{height: 100vh;}
   .car,.videoLogo{display: none;}
   .xx{width: 8%;}
   .popContent {
