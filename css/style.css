@@ -603,6 +603,7 @@ footer{
   
   #gotop { right: 0px; bottom: -25px;}
   .interested{width: calc(100% / 2 - 70px);}
+  .name { font-size: 0.5em;}
   
 }
 
