@@ -608,7 +608,7 @@ footer{
 }
 
 
-@media (max-width: 414px) {
+@media (max-width: 540px) {
   .videoBox {
     background-color: #53565a;
     align-items: center;
